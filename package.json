@@ -1,0 +1,7 @@
+{
+  "private": true,
+  "workspaces": [
+    "app-container",
+    "micro-frontend"
+  ]
+}
